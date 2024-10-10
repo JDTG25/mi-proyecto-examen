@@ -1,0 +1,6 @@
+Esto es lo que se llego a aprender con GIT y Github:
+Instalar GIT
+Crear cuenta en GitHub
+Crear un Repositorio Local y Remoto
+Git ADD, COMMIT, PUSH, CLONE, PULL, DIFF Y MERGE
+Git ACCESS TOKEN
